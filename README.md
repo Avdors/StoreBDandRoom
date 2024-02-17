@@ -1,4 +1,4 @@
-Hi, I am Dmitry!. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
+Hi, I am Dmitry! Learning technologies that I found interesting.
 I do mobile development. Android studio Kotlin. This application is an example of an online store. Using Retrofit we make a connection to the database on the server
 to update the data in the database on the device. The application is written using MVVM architecture.
 
