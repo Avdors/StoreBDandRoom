@@ -6,7 +6,7 @@ to update the data in the database on the device. The application is written usi
 [https://t.me/Avdors](https://t.me/Avdors)
 
 ![linkedin32](https://github.com/Avdors/StoreBDandRoom/assets/99538385/730aafa0-6543-4b95-9362-e8524c8f35ec)
-[https://linkedin.com/in/dmitrii-v-856187268](www.linkedin.com/in/dmitrii-v-856187268)
+[https://linkedin.com/in/dmitrii-v-856187268](https://www.linkedin.com/in/dmitrii-v-856187268/)
 
 
 
