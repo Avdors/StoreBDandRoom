@@ -2,11 +2,8 @@ Hi, I am Dmitry!
 I do mobile development. Android studio Kotlin. This application is an example of an online store. Using Retrofit we make a connection to the database on the server
 to update the data in the database on the device. The application is written using MVVM architecture.
 
-![telegram32](https://github.com/Avdors/StoreBDandRoom/assets/99538385/ffb92fd5-a7d9-48cb-bf3e-2289171d48aa)
-[https://t.me/Avdors](https://t.me/Avdors)
-
-![linkedin32](https://github.com/Avdors/StoreBDandRoom/assets/99538385/730aafa0-6543-4b95-9362-e8524c8f35ec)
-[https://linkedin.com/in/dmitrii-v-856187268](https://www.linkedin.com/in/dmitrii-v-856187268/)
+[![telegram32](https://github.com/Avdors/StoreBDandRoom/assets/99538385/ffb92fd5-a7d9-48cb-bf3e-2289171d48aa)](https://t.me/Avdors)
+[![linkedin32](https://github.com/Avdors/StoreBDandRoom/assets/99538385/730aafa0-6543-4b95-9362-e8524c8f35ec)](https://www.linkedin.com/in/dmitrii-v-856187268/)
 
 
 
